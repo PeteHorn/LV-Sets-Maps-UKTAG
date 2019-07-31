@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Benchmarking" Type="Folder">
 			<Item Name="Benchmarking Maps.vi" Type="VI" URL="../Benchmarking Maps.vi"/>
+			<Item Name="Benchmarking Sets.vi" Type="VI" URL="../Benchmarking Sets.vi"/>
 		</Item>
 		<Item Name="Ex 1" Type="Folder">
 			<Item Name="Ex 1 - Avoid Nested Loops.vi" Type="VI" URL="../Ex 1 - Avoid Nested Loops.vi"/>
@@ -32,6 +33,10 @@
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
 				<Item Name="Set Cartesian Product.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Cartesian Product.vim"/>
+				<Item Name="Set Difference.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Difference.vim"/>
+				<Item Name="Set Intersection.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Intersection.vim"/>
+				<Item Name="Set Symmetric Difference.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Symmetric Difference.vim"/>
+				<Item Name="Set Union.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Union.vim"/>
 				<Item Name="Shuffle 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Shuffle 1D Array.vim"/>
 			</Item>
 		</Item>

@@ -27,6 +27,10 @@
 			</Item>
 			<Item Name="Error Handler.vi" Type="VI" URL="../Error Handler.vi"/>
 		</Item>
+		<Item Name="Ex 3" Type="Folder">
+			<Item Name="Pure Function Wrapper.vi" Type="VI" URL="../Pure Function Wrapper.vi"/>
+			<Item Name="Pure Function.vi" Type="VI" URL="../Pure Function.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
